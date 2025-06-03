@@ -4,7 +4,7 @@ jobs:
   run_pytest:
     docker:
       - image: continuumio/miniconda3
-    working_directory: /tmp/src/NBCLab.github.io
+    working_directory: /tmp/src/SMITH.github.io
     steps:
       - checkout
       - run:
