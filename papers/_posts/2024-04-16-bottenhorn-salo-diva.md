@@ -3,8 +3,8 @@ layout: paper
 title: "Colonizing microbiota is associated with clinical outcomes in diabetic wound healing"
 nickname: 2023
 authors: "Gaofeng Wang"
-year: "2024"
-journal: bioRxiv
+year: "2023"
+journal: Adv Drug Deliv Rev
 volume:
 issue:
 pages:
@@ -18,11 +18,11 @@ fulltext:
 pdf:
 pdflink:
 pmcid:
-preprint: https://www.biorxiv.org/content/10.1101/2024.04.16.589598
+preprint: https://pubmed.ncbi.nlm.nih.gov/36758858/
 supplement:
 
 # Links
-doi: "10.1101/2024.04.16.589598"
+doi: "10.1016/j.addr.2023.114727"
 pmid:
 
 # Data and code
@@ -37,9 +37,4 @@ osf:
 
 # Abstract
 
-The rise of large neuroimaging datasets and multi-dataset mega-analyses brings the power to study interindividual differences in brain structure and function on a heretofore unseen scale.
-However, unknown and poorly characterized intra-individual variability continues to undermine the detection of robust brain-behavior associations and, ultimately, our understanding of the brain on the whole.
-Women's and reproductive health underlie variability in more than half of the population, but have long been overlooked in the study of both inter- and intra-individual differences in the brain.
-To this end, the Dense Investigation of Variability in Affect (DIVA) Study was designed to study intra-individual variability in the brain and behavior across the menstrual cycle in a small cohort of premenopausal female participants.
-The DIVA Study acquired weekly actigraphy, self-report, biospecimen, and both functional and structural magnetic resonance imaging data with concurrent peripheral physiological recordings.
-These data facilitate the study of several common sources of variability in the brain and behavior: the menstrual cycle and ovarian hormones, sleep, stress, exercise, and exogenous sources of hemodynamic variability.
+With the development of society and the improvement of life quality, more than 500 million people are affected by diabetes. More than 10 % of people with diabetes will suffer from diabetic wounds, and 80 % of diabetic wounds will reoccur, so the development of new diabetic wound treatments is of great importance. The development of skin microbe research technology has gradually drawn people's attention to the complex relationship between microbes and diabetic wounds. Many studies have shown that skin microbes are associated with the outcome of diabetic wounds and can even be used as one of the indicators of wound prognosis. Skin microbes have also been found to have the potential to treat diabetic wounds. The wound colonization of different bacteria can exert opposing therapeutic effects. It is necessary to fully understand the skin microbes in diabetic wounds, which can provide valuable guidance for clinical diabetic wound treatment.
