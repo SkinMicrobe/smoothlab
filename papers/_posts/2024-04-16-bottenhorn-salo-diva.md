@@ -9,7 +9,7 @@ volume:
 issue:
 pages:
 is_published: false
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/王教授某篇文章的截图.png
 projects: [diva]
 tags: [preprint]
 
@@ -22,7 +22,11 @@ preprint: https://pubmed.ncbi.nlm.nih.gov/36758858/
 supplement:
 
 # Links
-doi: "10.1016/j.addr.2023.114727"
+doi: "10.1016/j.addr.2023.114727
+        
+        
+        
+        "
 pmid:
 
 # Data and code
