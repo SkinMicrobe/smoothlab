@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Neuroanatomic changes and their association with cognitive decline in mild cognitive impairment: a meta-analysis."
+title: "Neuroanatomic."
 nickname: 2012-01-23-nickl-jockschat-neuroanatomic-changes-and
 authors: "Nickl-Jockschat T, Kleiman A, Schulz JB, Schneider F, Laird AR, Fox PT, Eickhoff SB, Reetz K"
 year: "2012"
