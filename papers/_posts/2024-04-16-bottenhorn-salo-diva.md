@@ -1,8 +1,8 @@
 ---
 layout: paper
-title: "Dense Investigation of Variability in Affect (DIVA): A Neuroimaging Study of Premenopausal Female Participants"
-nickname: 2024-04-16-bottenhorn-salo-diva
-authors: "Bottenhorn KL, Salo T, Peraza JA, Riedel MC, Flannery JS, Kimbler A, Toll A, Suarez D, Cruz FM, Zagales I, Caldes N, Dolan O, Zagales R, Sutherland MT, Laird RW, Laird AR"
+title: "Colonizing microbiota is associated with clinical outcomes in diabetic wound healing"
+nickname: 2023
+authors: "Gaofeng Wang"
 year: "2024"
 journal: bioRxiv
 volume:
