@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Colonizing microbiota is associated with clinical outcomes in diabetic wound healing"
-nickname: 2023-Colonizing-microbiota
+nickname: 2023-02-08-Colonizing-microbiota
 authors: "Gaofeng Wang"
 year: "2023"
 journal: Adv Drug Deliv Rev
