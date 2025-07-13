@@ -9,7 +9,7 @@ volume:
 issue:
 pages:
 is_published: True
-image: /assets/images/papers/王教授某篇文章的截图.png
+image: /assets/images/papers/2023-02-08.png
 projects: [diva]
 tags: [preprint]
 
