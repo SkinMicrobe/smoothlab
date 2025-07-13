@@ -9,14 +9,14 @@ volume: 217
 issue: 1
 pages: 115-25
 is_published: true
-image: /assets/images/papers/brain-struct-funct.png
+image: /assets/images/papers/2021-5-12.png
 projects: []
 tags: []
 
 # Text
 fulltext:
 pdf:
-pdflink:
+pdflink:https://pmc.ncbi.nlm.nih.gov/articles/PMC8122070/
 pmcid: PMC8122070
         
         
