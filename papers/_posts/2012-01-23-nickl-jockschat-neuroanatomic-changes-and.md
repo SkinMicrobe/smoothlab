@@ -1,10 +1,10 @@
 ---
 layout: paper
-title: "Neuroanatomic changes and their association with cognitive decline in mild cognitive impairment: a meta-analysis."
-nickname: 2012-01-23-nickl-jockschat-neuroanatomic-changes-and
-authors: "Nickl-Jockschat T, Kleiman A, Schulz JB, Schneider F, Laird AR, Fox PT, Eickhoff SB, Reetz K"
-year: "2012"
-journal: "Brain Struct Funct"
+title: "Bacteria induce skin regeneration via IL-1β signaling"
+nickname: 2021-05-12-Bacteria-induce-skin-regeneration-via-IL-1β-signaling
+authors: "Gaofeng Wang, Evan Sweren, Haiyun Liu, Eric Wier, Martin P Alphonse, Ruosi Chen, Nasif Islam, Ang Li, Yingchao Xue, Junjie Chen, Seungman Park, Yun Chen, Sam Lee, Yu Wang, Saifeng Wang, Nate K Archer, William Andrews, Maureen A Kane, Erika Dare, Sashank K Reddy, Zhiqi Hu, Elizabeth A Grice, Lloyd S Miller, Luis A Garza"
+year: "2021"
+journal: "Cell Host Microbe"
 volume: 217
 issue: 1
 pages: 115-25
@@ -17,13 +17,25 @@ tags: []
 fulltext:
 pdf:
 pdflink:
-pmcid: PMC4791066
+pmcid: PMC8122070
+        
+        
+        
+        
 preprint:
 supplement:
 
 # Links
-doi: "10.1007/s00429-011-0333-x"
-pmid: 21667303
+doi: 10.1016/j.chom.2021.03.003
+        
+        
+        
+        "
+pmid: 33798492
+        
+        
+        
+        
 
 # Data and code
 github:
@@ -35,4 +47,4 @@ osf:
 
 # Abstract
 
-Mild cognitive impairment (MCI) is an acquired syndrome characterised by cognitive decline not affecting activities of daily living. Using a quantitative meta-analytic approach, we aimed to identify consistent neuroanatomic correlates of MCI and how they are related to cognitive dysfunction. The meta-analysis enrols 22 studies, involving 917 MCI (848 amnestic MCI) patients and 809 healthy controls. Only studies investigating local changes in grey matter and reporting whole-brain results in stereotactic coordinates were included and analysed using the activation likelihood estimation approach. Probabilistic cytoarchitectonic maps were used to compare the localization of the obtained significant effects to histological areas. A correlation between the probability of grey matter changes and cognitive performance of MCI patients was performed. In MCI patients, the meta-analysis revealed three significant clusters of convergent grey matter atrophy, which were mainly situated in the bilateral amygdala and hippocampus, extending to the left medial temporal pole and thalamus, as well as in the bilateral precuneus. A sub-analysis in only amnestic MCI revealed a similar pattern. A voxel-wise analysis revealed a correlation between grey matter reduction and cognitive decline in the right hippocampus and amygdala as well as in the left thalamus. This study provides convergent evidence of a distinct neuroanatomical pattern in MCI. The correlation analysis with cognitive-mnestic decline further highlights the impact of limbic structures and the linkage with data from a functional neuroimaging database provides additional insight into underlying functions. Although different pathologies are underlying MCI, the observed neuroanatomical pattern of structural changes may reflect the common clinical denominator of cognitive impairment.
+Environmental factors that enhance regeneration are largely unknown. The immune system and microbiome are attributed roles in repairing and regenerating structure but their precise interplay is unclear. Here, we assessed the function of skin bacteria in wound healing and wound-induced hair follicle neogenesis (WIHN), a rare adult organogenesis model. WIHN levels and stem cell markers correlate with bacterial counts, being lowest in germ-free (GF), intermediate in conventional specific pathogen-free (SPF), and highest in wild-type mice, even those infected with pathogenic Staphylococcus aureus. Reducing skin microbiota via cage changes or topical antibiotics decreased WIHN. Inflammatory cytokine IL-1β and keratinocyte-dependent IL-1R-MyD88 signaling are necessary and sufficient for bacteria to promote regeneration. Finally, in a small trial, a topical broad-spectrum antibiotic also slowed skin wound healing in adult volunteers. These results demonstrate a role for IL-1β to control morphogenesis and support the need to reconsider routine applications of topical prophylactic antibiotics. 
