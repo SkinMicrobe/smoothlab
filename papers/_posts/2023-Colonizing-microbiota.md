@@ -1,28 +1,34 @@
 ---
 layout: paper
 title: "Colonizing microbiota is associated with clinical outcomes in diabetic wound healing"
-nickname: 2024-04-16-bottenborn-salo-diva
+nickname: 2023-Colonizing-microbiota
 authors: "Gaofeng Wang"
 year: "2023"
 journal: Adv Drug Deliv Rev
 volume:
 issue:
 pages:
-is_published: false
+is_published: True
 image: /assets/images/papers/王教授某篇文章的截图.png
 projects: [diva]
 tags: [preprint]
 
 # Text
-fulltext:
+fulltext:https://www.sciencedirect.com/science/article/abs/pii/S0169409X2300042X?via%3Dihub
 pdf:
 pdflink:
-pmcid:
-preprint: https://pubmed.ncbi.nlm.nih.gov/36758858/
+pmcid:10163681
+preprint:
 supplement:
 
 # Links
 doi: "10.1016/j.addr.2023.114727
+        
+        
+        
+        
+        
+        
         
         
         
