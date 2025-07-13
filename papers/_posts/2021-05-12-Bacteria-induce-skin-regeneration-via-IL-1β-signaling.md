@@ -16,7 +16,7 @@ tags: []
 # Text
 fulltext:
 pdf:
-pdflink:
+pdflink: https://pmc.ncbi.nlm.nih.gov/articles/PMC8122070/
 pmcid: PMC8122070
         
         
