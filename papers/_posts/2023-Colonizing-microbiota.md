@@ -14,7 +14,7 @@ projects: [diva]
 tags: [preprint]
 
 # Text
-fulltext:https://www.sciencedirect.com/science/article/abs/pii/S0169409X2300042X?via%3Dihub
+fulltext:
 pdf:
 pdflink:
 pmcid:10163681
