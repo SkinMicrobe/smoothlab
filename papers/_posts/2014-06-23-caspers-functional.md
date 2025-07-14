@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Functional characterization and differential coactivation patterns of two cytoarchitectonic visual areas on the human posterior fusiform gyrus."
-nickname: 2014-06-23-caspers-functional-characterization-and
+nickname: 2014-06-23-caspers-functional
 authors: "Caspers J, Zilles K, Amunts K, Laird AR, Fox PT, Eickhoff SB"
 year: "2014"
 journal: "Hum Brain Mapp"
