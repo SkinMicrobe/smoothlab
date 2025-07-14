@@ -10,8 +10,8 @@ issue:
 pages:
 is_published: True
 image: /assets/images/papers/2023-02-08.png
-projects: [diva]
-tags: [preprint]
+projects: 
+tags: 
 
 # Text
 fulltext:
@@ -22,23 +22,13 @@ preprint:
 supplement:
 
 # Links
-doi: "10.1016/j.addr.2023.114727
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        "
+doi: "10.1016/j.addr.2023.114727"
 pmid:
 
 # Data and code
-github: ["https://github.com/NBCLab/diva-project", "https://github.com/NBCLab/arithmetic-task", "https://github.com/NBCLab/pyfLoc", "https://github.com/NBCLab/localizer-task", "https://github.com/NBCLab/film-viewing-task", "https://github.com/NBCLab/arithmetic-task", "https://github.com/NBCLab/sorpf-task", "https://github.com/NBCLab/eirt-task", "https://github.com/NBCLab/probabilistic-selection-task"]
+github: 
 neurovault:
-openneuro: ["ds002278"]
+openneuro: 
 figshare:
 figshare_names:
 osf:
