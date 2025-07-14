@@ -4,7 +4,7 @@ title: "Phytic Acid Improves the Skin Barrier Function in Murine Models of Atopi
 nickname: 2025-07-09-Phytic-Acid-Skin-Barrier-Function
 authors: "Piao Wang, Lan Yang, Lu Chen, Xinyu Huang, Zhen Lin, Yue Li, Caiyu Qi, Tianren Xu, Jianglin Zhang, Min Qi, Biao Cheng, Junjie Wang, Zhiqi Hu, Gaofeng Wang​"
 year: "2025"
-journal: 
+journal: "Allergy"
 volume:
 issue:
 pages:
