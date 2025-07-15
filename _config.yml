@@ -14,8 +14,8 @@ future: true
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : NBC Lab
-tagline: Neuroinformatics and brain connectivity
+title : SMOOTH Lab
+tagline: SMOOTH--Skin & Mucosal Microbiomics Optimizing Total Health 
 institution:
   url: http://fiu.edu
   name: Florida International University
