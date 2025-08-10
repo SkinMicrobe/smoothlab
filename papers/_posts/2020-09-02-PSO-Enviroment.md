@@ -9,7 +9,7 @@ volume: 156
 issue: 10
 pages: 1057-1065
 is_published: true
-image: /assets/images/papers/2020-09-02.png
+image: /assets/images/papers/2020-09-03.png
 projects:
 tags: 
 

@@ -9,7 +9,7 @@ volume: 217
 issue: 1
 pages: 115-25
 is_published: true
-image: /assets/images/papers/2021-5-12.png
+image: /assets/images/papers/2021-05-12.png
 projects: []
 tags: []
 

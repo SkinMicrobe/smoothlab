@@ -9,7 +9,7 @@ volume: 45
 issue: 4
 pages: 815-830
 is_published: true
-image: /assets/images/papers/2023-12-08.png
+image: /assets/images/papers/2023-12-18.png
 projects:
 tags: []
 
