@@ -158,6 +158,12 @@ a.off {
 	border-bottom: none;
 }
 
+a.on{
+	color:#000000;
+	border-bottom: none;
+	font-weight: bold !important;
+	background: #fff8c6;
+}
 /*a {
 	border-bottom: thin dotted;
 }*/
@@ -480,3 +486,4 @@ strong {
   vertical-align:super;
   font-size:0.8em;
 }
+

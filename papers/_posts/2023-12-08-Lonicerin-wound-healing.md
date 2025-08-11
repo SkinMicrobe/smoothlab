@@ -2,7 +2,7 @@
 layout: paper
 title: "Lonicerin promotes wound healing in diabetic rats by enhancing blood vessel regeneration through Sirt1-mediated autophagy"
 nickname: 2023-12-08-Lonicerin-wound-healing
-authors: "​Zhen Lin, Lu-yao Li, Lu Chen, Chen Jin, Yue Li, Lan Yang, Chang-zhou Li, Cai-yu Qi, Yu-yang Gan, Jia-rui Zhang, Piao Wang, Li-bin Ni, Gao-feng Wang"
+authors: "​Zhen Lin, Lu-yao Li, Lu Chen, Chen Jin, Yue Li, Lan Yang, Chang-zhou Li, Cai-yu Qi, Yu-yang Gan, Jia-rui Zhang, Piao Wang, Li-bin Ni, Gaofeng Wang"
 year: "2023"
 journal: "Acta Pharmacologica Sinica"
 volume: 45
