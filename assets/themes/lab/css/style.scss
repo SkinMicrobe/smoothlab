@@ -487,3 +487,36 @@ strong {
   font-size:0.8em;
 }
 
+#all {
+  width: 1040px;    // 设置宽度为 1040px
+  height: 800px;  // 设置高度为 800px
+  background-color: #ffffff;
+}
+#top {
+  width: 100%;
+  height: 30px;  // 设置高度为 30px
+  background-color: #ffffff;
+}
+#top h1{
+	  color: #0a0a0a;
+  text-align: center;
+  font-size: 24px;  // 设置标题字体大小
+  margin: 0;  // 去除默认的外边距
+}
+#bottom{
+  width: 100%;
+  height: 770px;  // 设置高度为 770px
+  background-color: #ffffff;
+}
+.photo{
+	width: 250px;
+	height: 250px;
+	background-color: #ffffff;
+	float: left;
+	margin-left: 10px;
+	margin-bottom: 5px;
+}
+.photo img {
+	width: 250px;
+	height: 250px;
+}
