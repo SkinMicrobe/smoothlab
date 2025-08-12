@@ -4,7 +4,7 @@ title: "Commensal microbe regulation of skin cells in disease​"
 nickname: 
 authors: "Yuyang Gan, Jiarui Zhang, Fangfang Qi, Zhiqi Hu, Evan Sweren, Sashank K Reddy, Lu Chen, Xinyi Feng, Elizabeth A Grice, Luis A Garza, Gaofeng Wang​"
 year: "2024" 
-journal:
+journal: "Cell Host & Microbe"
 volume: 32
 issue: 8
 pages: 1264–1279
