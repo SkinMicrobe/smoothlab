@@ -247,7 +247,7 @@ navorder: 3
                           {% for science_name in member.science_names %}
                               {% if author == science_name %}
                                   {% assign author_in_lab = true %}
-                                  <a class="off" href="{{ member.url }}">{{ science_name }}</a>,
+                                  <a class="on" href="{{ member.url }}">{{ science_name }}</a>,
                               {% endif %}
                           {% endfor %}
                       {% endfor %}
