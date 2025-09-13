@@ -503,20 +503,28 @@ strong {
   font-size: 24px;  // 设置标题字体大小
   margin: 0;  // 去除默认的外边距
 }
-#bottom{
+#bottom {
   width: 100%;
-  height: 770px;  // 设置高度为 770px
+  min-height: 770px;        /* 建议用min-height以适应图片数量变化 */
   background-color: #ffffff;
+  display: flex;
+  flex-wrap: wrap;          /* 多行换行 */
+  justify-content: center;  /* 水平居中 */
+  align-items: flex-start;  /* 顶部对齐 */
+  gap: 10px 5px;            /* 行间距10px，列间距5px，可根据需要调整 */
+  padding: 10px 0;          /* 上下留白美观 */
+  box-sizing: border-box;   /* 防止padding撑大容器 */
 }
-.photo{
-	width: 250px;
-	height: 250px;
-	background-color: #ffffff;
-	float: left;
-	margin-left: 10px;
-	margin-bottom: 5px;
+
+.photo {
+  width: 250px;
+  height: 250px;
+  background-color: #ffffff;
+  margin: 0;
 }
+
 .photo img {
-	width: 250px;
-	height: 250px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* 保持图片不变形且填满容器 */
 }
