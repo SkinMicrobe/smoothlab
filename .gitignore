@@ -2,7 +2,7 @@ vendor/
 *.nii.gz
 .ipynb_checkpoints/
 
-_site/*
+#_site/*
 _theme_packages/*
 
 drummondlab.sublime-project
