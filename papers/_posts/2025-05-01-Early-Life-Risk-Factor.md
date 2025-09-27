@@ -9,7 +9,7 @@ volume: 79
 issue: 5
 pages: 1351–1356
 is_published: true
-image: /assets/images/papers/2025-05-01.png
+image:  /lab/assets/images/papers/2025-05-01.png
 projects:
 tags: [LETTER]
 

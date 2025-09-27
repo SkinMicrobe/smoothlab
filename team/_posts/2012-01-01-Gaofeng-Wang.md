@@ -5,7 +5,7 @@ position: Lab Director
 handle: alaird
 nickname: Gaofeng Wang
 science_names: [Gaofeng Wang]
-image: /assets/images/team/Gaofeng Wang.png
+image:  /lab/assets/images/team/Gaofeng Wang.png
 alumni: false
 
 # social

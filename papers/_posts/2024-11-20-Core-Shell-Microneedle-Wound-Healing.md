@@ -9,7 +9,7 @@ volume: 20
 issue: 46
 pages: e2401551
 is_published: true
-image: /assets/images/papers/2024-08-07.png
+image:  /lab/assets/images/papers/2024-08-07.png
 projects:
 tags: []
 

@@ -9,7 +9,7 @@ volume: 12
 issue: 15
 pages: e2417593​​
 is_published: true
-image: /assets/images/papers/2025-05-28.jpg
+image:  /lab/assets/images/papers/2025-05-28.jpg
 projects:
 tags: []
 

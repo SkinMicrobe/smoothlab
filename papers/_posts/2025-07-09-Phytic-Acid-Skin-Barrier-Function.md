@@ -9,7 +9,7 @@ volume:
 issue:
 pages:
 is_published: true
-image: /assets/images/papers/2025-07-09.png
+image:  /lab/assets/images/papers/2025-07-09.png
 projects:
 tags: []
 

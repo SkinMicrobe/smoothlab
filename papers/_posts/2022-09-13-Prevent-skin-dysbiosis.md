@@ -9,7 +9,7 @@ volume: 55
 issue: 9
 pages: 1645-1662
 is_published: true
-image: /assets/images/papers/2022-09-13.png
+image:  /lab/assets/images/papers/2022-09-13.png
 projects:
 tags: []
 

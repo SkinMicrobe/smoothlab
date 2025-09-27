@@ -5,7 +5,7 @@ position: Lab Co-Director
 handle: msutherland
 nickname: Dongqiang Zeng
 science_names: [Dongqiang Zeng]
-image: /assets/images/team/Dongqiang Zeng.png
+image:  /lab/assets/images/team/Dongqiang Zeng.png
 alumni: false
 
 # social

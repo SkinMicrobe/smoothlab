@@ -9,7 +9,7 @@ volume: 155
 issue: 3
 pages: 880-891
 is_published: true
-image: /assets/images/papers/2025-03.png
+image:  /lab/assets/images/papers/2025-03.png
 projects:
 tags: []
 

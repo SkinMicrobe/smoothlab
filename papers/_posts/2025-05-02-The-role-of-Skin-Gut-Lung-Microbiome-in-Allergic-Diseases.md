@@ -9,7 +9,7 @@ volume: 13
 issue: 5
 pages: S2213-2198(25)00410-6
 is_published: true
-image: /assets/images/papers/2025-05-02.png
+image:  /lab/assets/images/papers/2025-05-02.png
 projects:
 tags: []
 

@@ -9,7 +9,7 @@ volume: 144
 issue:
 pages: 104971
 is_published: true
-image: /assets/images/papers/2023-01-04.png
+image:  /lab/assets/images/papers/2023-01-04.png
 projects: ["nimare"]
 tags: ["meta-analysis"]
 

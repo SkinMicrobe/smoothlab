@@ -9,7 +9,7 @@ volume: 7
 issue: 5
 pages: 737-750
 is_published: true
-image: /assets/images/papers/2019-03-06.png
+image:  /lab/assets/images/papers/2019-03-06.png
 projects:
 tags: []
 

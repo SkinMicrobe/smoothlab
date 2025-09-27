@@ -9,7 +9,7 @@ volume: 32
 issue: 8
 pages: 1264–1279
 is_published: true
-image: /assets/images/papers/2024-08-24.png
+image:  /lab/assets/images/papers/2024-08-24.png
 projects:
 tags: []
 

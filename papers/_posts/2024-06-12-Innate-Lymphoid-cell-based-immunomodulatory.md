@@ -9,7 +9,7 @@ volume: 184
 issue: 
 pages: 296-312
 is_published: true
-image: /assets/images/papers/2024-06-12.png
+image:  /lab/assets/images/papers/2024-06-12.png
 projects:
 tags: []
 
