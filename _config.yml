@@ -4,6 +4,8 @@
 permalink: /:categories/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".sublime-project", ".sublime-workspace", "vendor"]
+include:
+  - assets
 highlighter: rouge
 
 markdown: kramdown
@@ -17,11 +19,11 @@ future: true
 title : SMOOTH Lab
 tagline: SMOOTH--Skin & Mucosal Microbiomics Optimizing Total Health 
 institution:
-  url: http://fiu.edu
-  name: Florida International University
+  url: https://www.smu.edu.cn/
+  name: Southern Medical University
 department:
-  url: http://cn.fiu.edu
-  name: Cognitive Neuroscience
+  url: https://skinmicrobe.github.io/lab/
+  name: Skin Microbe
 author :
   name : Taylor Salo
   email : tsalo006@fiu.edu
